@@ -1,10 +1,10 @@
 package com.example.java;
 
-public class Oval extends Round{
+class Oval extends Round {
 
     double smallRadius;
 
-    public Oval(double radius, double smallRadius) {
+    Oval(double radius, double smallRadius) {
         super(radius);
         this.smallRadius = smallRadius;
     }

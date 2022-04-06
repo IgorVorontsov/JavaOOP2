@@ -1,7 +1,7 @@
 package com.example.java;
 
-public interface Shape {
+interface Shape {
 
-    public double getSquare();
+    double getSquare();
 
 }

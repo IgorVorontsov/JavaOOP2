@@ -1,8 +1,8 @@
 package com.example.java;
 
-public class Square extends Rectangular {
+class Square extends Rectangular {
 
-    public Square(double side) {
+    Square(double side) {
         super(side);
     }
 }
