@@ -14,10 +14,6 @@ public class Rectangle extends Rectangular {
         return this.side * this.length;
     }
 
-    //    public Rectangle(double length, double width) {
-//        this.length = length;
-//        this.width = width;
-//    }
 
 
 }
